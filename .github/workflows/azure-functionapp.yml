@@ -5,7 +5,7 @@ on:
       - main
 
 env:
-  ResourceGroup: letsencrypt-certs
+  ResourceGroup: letsencrypt-gbartlett
 jobs:
   build:
     runs-on: ubuntu-latest
