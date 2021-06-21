@@ -5,7 +5,7 @@ on:
       - main
 
 env:
-  ResourceGroup: letsencrypt-app
+  ResourceGroup: letsencrypt-certs
 jobs:
   build:
     runs-on: ubuntu-latest
