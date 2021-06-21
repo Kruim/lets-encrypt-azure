@@ -21,7 +21,7 @@ The function runs on a daily schedule and automatically renews all certificates 
 * automated Let's Encrypt certificate renewal for
     * Azure App Service*
     * Azure CDN
-* securely store certificates in keyvaults
+* securely store certificates in  keyvaults
 * cheap to run (< 0.10$/month)
 
 \*Managed App Service Certificates have been provided for free by Microsoft for a while now and as of [March 17th 2021 also support Apex domains](https://azure.microsoft.com/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/). This means an Azure native solution exists that automatically rotates app service certificates. I recommend you use it instead of this function for app services.
