@@ -34,7 +34,7 @@ In the worst case (complete failure of the function for a long time) Let's Encry
 
 # Setup
 
-See [Setup](./docs/Setup.md).
+See [Setup](./docs/Setup.md) .
 
 # Changelog
 
